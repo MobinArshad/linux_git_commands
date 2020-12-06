@@ -1,0 +1,34 @@
+///////////////////
+  git and github
+
+1) To check the version of git type in terminal
+      git --version
+
+2) To check the status of code
+      git status
+
+3) To initailize the git
+      git init      
+
+
+4) git architecture 
+      working directory
+      staging area
+      git directory ( git repository )     
+
+
+5) git add (add the files from working directory to staging area)
+     git add .  (. => represent the current files)
+
+6) git commit -m ( add files from satging area to git repository)
+        git commit -m "Your messages"     
+   
+7) git log  ( See the history of the file and who changes the git)   
+       
+       git log
+
+8) To change the user and email of git we need to type command
+    
+      git config --global user.name "Mobin Arshad Khan"
+      git config --global user.email "myNewEmail@.com"
+      git config --list (to see the config list)
