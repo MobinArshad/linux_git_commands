@@ -1,0 +1,25 @@
+Linux Tutorials content
+/////////////////////////////////////////////
+
+Most common linux distro are :--
+ 1) Red Hat/Fedora​
+ 2) openSUSE/SUSE
+ 3) Debian
+ 
+AWS=> Amazon Web Server 
+
+Graphical Layers and Interfaces
+three basics layers are:
+  The X windows System
+  The Window manager
+  The Desktop Manager
+ 
+Basics git command
+  git init
+  git status
+  git add
+  git log
+  git diff
+  git commit -m "messages"   
+/////////////////////////////////////////  
+Concept and Designing features of git  
